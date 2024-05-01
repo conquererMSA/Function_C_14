@@ -1,5 +1,2 @@
-address of x in main p
-x er value in main - 20
-value of ptrX in fun p
-x er value in fun - 300
-x er value in main - 300
+1 index er value - 5
+1 index er valu by derefere - 5
